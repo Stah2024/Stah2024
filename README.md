@@ -24,6 +24,6 @@
 
 ### Связаться со мной (отвечаю очень быстро):
 [![Telegram](https://img.shields.io/badge/Telegram-@artstah-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/artstah) ← основной контакт  
-Почта: art364@yandex.ru (или любая твоя)
+Почта: art364@yandex.ru 
 
 Пиши прямо сейчас — обсудим твой проект за 10 минут и сразу скажу точную цену и сроки! 🚀
