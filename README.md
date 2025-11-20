@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ArtyomStah2024/ArtyomStah2024/blob/main/avatar.jpg?raw=true" width="180" style="border-radius:50%; border: 5px solid #58a6ff;" alt="Артём">
+  <img src="https://github.com/Stah2024/Stah2024/blob/main/avatar.jpg?raw=true" width="180" style="border-radius:50%; border: 5px solid #58a6ff;" alt="Артём">
 </p>
 
 # Привет, я Артём 👋 (@artstah в Telegram)
